@@ -1,1 +1,2 @@
-# C69-Bar-Code-Scanner
+# tabNavigation
+Tab navigation in the app
